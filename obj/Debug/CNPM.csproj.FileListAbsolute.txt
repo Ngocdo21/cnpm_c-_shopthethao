@@ -1,0 +1,16 @@
+E:\cnpm\CNPM\CNPM\bin\Debug\CNPM.exe.config
+E:\cnpm\CNPM\CNPM\bin\Debug\CNPM.exe
+E:\cnpm\CNPM\CNPM\bin\Debug\CNPM.pdb
+E:\cnpm\CNPM\CNPM\obj\Debug\CNPM.Properties.Resources.resources
+E:\cnpm\CNPM\CNPM\obj\Debug\CNPM.csproj.GenerateResource.cache
+E:\cnpm\CNPM\CNPM\obj\Debug\CNPM.csproj.CoreCompileInputs.cache
+E:\cnpm\CNPM\CNPM\obj\Debug\CNPM.exe
+E:\cnpm\CNPM\CNPM\obj\Debug\CNPM.pdb
+E:\cnpm\CNPM\CNPM\obj\Debug\CNPM.hoadon.resources
+E:\cnpm\CNPM\CNPM\obj\Debug\CNPM.khachhang.resources
+E:\cnpm\CNPM\CNPM\obj\Debug\CNPM.sanpham.resources
+E:\cnpm\CNPM\CNPM\obj\Debug\CNPM.nhanvien.resources
+E:\cnpm\CNPM\CNPM\obj\Debug\CNPM.baocao.resources
+E:\cnpm\CNPM\CNPM\obj\Debug\CNPM.dangnhap.resources
+E:\cnpm\CNPM\CNPM\obj\Debug\CNPM.main.resources
+E:\cnpm\CNPM\CNPM\obj\Debug\CNPM.csproj.AssemblyReference.cache
